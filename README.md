@@ -32,9 +32,11 @@
 ---
 
 ### 📊 GitHub Stats  
-![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulAzizGGc&show_icons=true&theme=tokyonight)  
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulAzizGGc&show_icons=true&theme=tokyonight" alt="Aziz's GitHub stats"/>
+</p>
+
 
 ### 🌐 Connect With Me  
 <p align="center">
