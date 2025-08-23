@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there ! 👋  I'm Abdul Aziz 
+
+![Abdul Aziz](img/Abdul-Aziz.jpg)
 
 <!--
 **AbdulAzizGGc/AbdulAzizGGc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
