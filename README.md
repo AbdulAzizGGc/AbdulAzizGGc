@@ -1,87 +1,73 @@
-## Hi there ! 👋  I'm Abdul Aziz 
+## Hi there! 👋 I'm Abdul Aziz  
 
-![Abdul Aziz](img/Abdul-Aziz.jpg)
+<img src="img/Abdul-Aziz.jpg" alt="Abdul Aziz"/> 
 
-<!--
-**AbdulAzizGGc/AbdulAzizGGc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ---
 
-### this is what i do
-
-
+### 🚀 What I Do  
 ![what](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjUxZmxjbmxxMWV3aTdveWNuMHdrbnVhaXJsdWdiMHJwbzJjOHU5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sYGdpotbxIiwaTInWI/giphy.gif)
 
 ---
 
-###  🛠️ Tech Stack
+### 🛠️ Tech Stack  
 
-#### Frontend
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+**Frontend**  
+<p align="left">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</p>
 
-#### BackEnd
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+**Backend**  
+<p align="left">
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+</p>
 
-#### Database
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+**Database**
+<p align="left">  
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+</p>  
 
 ---
 
-###  📊 GitHub Stats
-![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulAzizGGc&show_icons=true&theme=tokyonight)
+### 📊 GitHub Stats  
+![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulAzizGGc&show_icons=true&theme=tokyonight)  
 
 ---
 
-### 🌐 Connect With Me
-
-<div align="center">
+### 🌐 Connect With Me  
+<p align="center">
   <a href="https://www.instagram.com/abdulazizzxq/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/ancak12345">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
   <a href="https://www.tiktok.com/@udeansslayer">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-</div>
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🎮 Gaming Profiles
-<div align="center">
-<a href="https://steamcommunity.com/id/UdeansSlayer/">
-<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
-</a>
-<a href="346176223229247490"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-</div>
+### 🎮 Gaming Profiles  
+<p align="center">
+  <a href="https://steamcommunity.com/id/UdeansSlayer/">
+    <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/346176223229247490">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🐍  Play Games With Me
+### 🐍 Fun with GitHub  
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/AbdulAzizGGc/AbdulAzizGGc/output/snake.svg" alt="Snake animation" />
 
 ###
 
-
-
-
-
-
+---
