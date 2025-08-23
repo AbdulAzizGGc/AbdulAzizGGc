@@ -5,7 +5,10 @@
 ---
 
 ### 🚀 What I Do  
-![what](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjUxZmxjbmxxMWV3aTdveWNuMHdrbnVhaXJsdWdiMHJwbzJjOHU5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sYGdpotbxIiwaTInWI/giphy.gif)
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjUxZmxjbmxxMWV3aTdveWNuMHdrbnVhaXJsdWdiMHJwbzJjOHU5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sYGdpotbxIiwaTInWI/giphy.gif" alt="what I do" width="400"/>
+</p>
 
 ---
 
