@@ -37,10 +37,19 @@ Here are some ideas to get you started:
 ###  📊 GitHub Stats
 ![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulAzizGGc&show_icons=true&theme=tokyonight)
 
-### 🌐 Connect With Me
-![https://www.instagram.com/abdulazizzxq/](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![https://www.facebook.com/ancak12345?locale=id_ID](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![https://www.tiktok.com/@udeansslayer](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.instagram.com/anndikapratamaa?igsh=MXVqemxxa2t1b3JvYw%3D%3D&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/andika-pratama-71947a327">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.tiktok.com/@dikadikaaa_95?_t=ZS-8z5GlrVwHy4&_r=1">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+</div>
 
 ### 🎮 Gaming Profiles
 ![https://steamcommunity.com/id/UdeansSlayer/](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
