@@ -16,9 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
 ### this is what i do
 
+
 ![what](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjUxZmxjbmxxMWV3aTdveWNuMHdrbnVhaXJsdWdiMHJwbzJjOHU5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sYGdpotbxIiwaTInWI/giphy.gif)
+
+---
 
 ###  🛠️ Tech Stack
 
@@ -34,26 +39,48 @@ Here are some ideas to get you started:
 #### Database
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
+---
+
 ###  📊 GitHub Stats
 ![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulAzizGGc&show_icons=true&theme=tokyonight)
 
-## 🌐 Connect With Me
+---
+
+### 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.instagram.com/anndikapratamaa?igsh=MXVqemxxa2t1b3JvYw%3D%3D&utm_source=qr">
+  <a href="https://www.instagram.com/abdulazizzxq/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/andika-pratama-71947a327">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.facebook.com/ancak12345">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.tiktok.com/@dikadikaaa_95?_t=ZS-8z5GlrVwHy4&_r=1">
+  <a href="https://www.tiktok.com/@udeansslayer">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </div>
 
+---
+
 ### 🎮 Gaming Profiles
-![https://steamcommunity.com/id/UdeansSlayer/](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![346176223229247490](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+<div align="center">
+<a href="https://steamcommunity.com/id/UdeansSlayer/">
+<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
+</a>
+<a href="346176223229247490"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+</div>
+
+---
+
+### 🐍  Play Games With Me
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AbdulAzizGGc/AbdulAzizGGc/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 
 
 
